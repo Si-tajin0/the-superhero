@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Person from '../../Person/Person';
+import Person from '../Person/Person';
 import Cart from '../Cart/Cart';
 import './Home.css';
 
