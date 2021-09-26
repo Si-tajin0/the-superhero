@@ -29,10 +29,10 @@ const Person = (props) => {
                         className="cart-btn bg-dark"> {cart} Add To Cart</button>
                     {/* social Icon */}
                     <div className="ml-5 social-icon">
-                        <i class="fab fa-facebook-square"></i>
-                        <i class="fab fa-instagram-square"></i>
-                        <i class="fab fa-linkedin"></i>
-                        <i class="fab fa-twitter-square"></i>
+                        <i className="fab fa-facebook-square"></i>
+                        <i className="fab fa-instagram-square"></i>
+                        <i className="fab fa-linkedin"></i>
+                        <i className="fab fa-twitter-square"></i>
                     </div>
                 </Card.Body>
             </Card>
