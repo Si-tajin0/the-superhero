@@ -1,0 +1,13 @@
+.person-name {
+    list-style: none;
+    color: #AF9B60;
+}
+.cart-item {
+    color: #AF9B60;
+}
+.cart-container {
+    box-shadow: 5px 10px 10px 5px #070c08a4;
+}
+.cart-container hr {
+    margin-right: 10px;
+}

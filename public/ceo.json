@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/C6cgvJT/Mark-Zuckerberg.jpg",
+    "name": "Mark Zuckerberg",
+    "company": "Facebook",
+    "age": 37,
+    "country": "USA",
+    "salary": 144390772
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/yd1Zjry/Sundar-Pichai-Attr-Maurizio-Pesce-1.jpg",
+    "name": "Sundar Pichai",
+    "company": "Google",
+    "age": 49,
+    "country": "USA",
+    "salary": 1731455159
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/DQDrmjQ/ElonMusk.png",
+    "name": "Elon Musk",
+    "company": "Tesla & SpaceX",
+    "age": 50,
+    "country": "South African",
+    "salary": 779956992744
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/ThHSK7W/Satya-Nadella-Official-Leweb-Photos.jpg",
+    "name": "Satya Nadella",
+    "company": "Microsoft",
+    "age": 54,
+    "country": "USA",
+    "salary": 273489624
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/g4YxHsC/Jeff-Bezos.jpg",
+    "name": "Jeff Bezos",
+    "company": "Amazon",
+    "age": 57,
+    "country": "USA",
+    "salary": 394914933035
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/nMqmDbZ/Bill-Gates-1.jpg",
+    "name": "Bill Gates",
+    "company": "Microsoft",
+    "age": 65,
+    "country": "USA",
+    "salary": 66024840366
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/Wn8Dpy1/1-1-732x1024.png",
+    "name": "Daniel Zhang",
+    "company": "Alibaba",
+    "age": 49,
+    "country": "China",
+    "salary": 59237239955
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/xSCXFSf/Lakshmi-Mittal.jpg",
+    "name": "Lakshmi Mittal",
+    "company": "ArcelorMittal",
+    "age": 71,
+    "country": "Indian",
+    "salary": 4000000000
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/grPFSXB/Indra-Nooyi-attr-Jeff-Bedford.jpg",
+    "name": "Indra Nooyi",
+    "company": "PepsiCo",
+    "age": 65,
+    "country": "Indian",
+    "salary": 26400000
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co/2YQTFyR/Warren-Buffett-1.jpg",
+    "name": "Warren Buffett",
+    "company": "Berkshire Hathaway",
+    "age": 91,
+    "country": "USA",
+    "salary": 2346831
+  }
+]
